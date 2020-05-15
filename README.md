@@ -1,3 +1,2 @@
-# react-hiittc
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hiittc)
+Weather application
+I created this using react and made use of openweathermap api
