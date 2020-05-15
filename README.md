@@ -1,3 +1,1 @@
-#Weather application
-
-I created this using react and made use of openweathermap api
+<h1>Weather application</h1> 
